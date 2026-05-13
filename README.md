@@ -10,11 +10,8 @@
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I’m currently learning Advanced Multi-Agent AI Systems and Financial Technology (FinTech).
-- Modern web development tools like React, Vite, and Tailwind CSS.
-- Robotics and drone hardware components like Pixhawk and Raspberry Pi.
-- I’m looking to collaborate on Ethical AI projects and autonomous system development.
-- Innovative hackathon projects involving Generative AI and Google Cloud.i
+- I’m currently learning Advanced Multi-Agent AI Systems and Financial Technology (FinTech). Modern web development tools like React, Vite, and Tailwind CSS. Robotics and drone hardware components like Pixhawk and Raspberry Pi.
+- I’m looking to collaborate on Ethical AI projects and autonomous system development. Innovative hackathon projects involving Generative AI and Google Cloud.i
 - I'm looking for help with Refining the hardware architecture for an IoT-based Smart RO Monitor.
 
 
@@ -112,4 +109,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
 
