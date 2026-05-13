@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m currently learning Advanced Multi-Agent AI Systems and Financial Technology (FinTech). Modern web development tools like React, Vite, and Tailwind CSS. Robotics and drone hardware components like Pixhawk and Raspberry Pi.
